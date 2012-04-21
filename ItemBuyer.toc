@@ -1,0 +1,11 @@
+## Title: ItemBuyer
+## Author: Neurox
+## Notes: Auto-restocks items
+## Interface: 30300
+## SavedVariables: ItemBuyerDB
+
+classes\Paladin.lua
+classes\Rogue.lua
+classes\Death Knight.lua
+classes\Mage.lua
+ItemBuyer.lua
